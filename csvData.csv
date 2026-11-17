@@ -1,0 +1,9 @@
+﻿"# Version","1"
+"# Report","CloudWatch"
+"# DistributionID","E3ANQ8UWRWCNPW"
+"# StartDateUTC","Tue Nov 03 2026 17:47:21 GMT+0530 (India Standard Time)"
+"# EndDateUTC","Tue Nov 03 2026 18:47:21 GMT+0530 (India Standard Time)"
+"# GeneratedTimeUTC","Tue Nov 03 2026 18:47:23 GMT+0530 (India Standard Time)"
+"# Granularity","1 minutes"
+
+"DistributionID","FriendlyName","TimeBucket","Requests","BytesDownloaded","BytesUploaded","TotalErrorRatePct","4xxErrorRatePct","5xxErrorRatePct"
